@@ -241,4 +241,4 @@ This repository serves as the official landing page for ZFactura. The software i
 **Get the most recent version of ZFactura today!**
 
 ---
-**Last updated:** 2026-09-21 03:49:52 UTC
+**Last updated:** 2026-09-21 09:43:06 UTC
